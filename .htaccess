@@ -1,0 +1,7 @@
+
+##AddDefaultCharset UTF-8
+##php_value default_charset windows-1251
+
+php_value memory_limit 324M
+
+##end
